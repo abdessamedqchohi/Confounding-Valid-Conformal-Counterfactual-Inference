@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.claude/
+
+# Ignore results and plots
+*plots*/
+*results*/
+*plots_*/
+*results_*/

@@ -1,0 +1,14 @@
+{
+  "active_deployment": "simple_street_canyon",
+  "deployments": {
+    "simple_street_canyon": {
+      "scene_name": "simple_street_canyon",
+      "mesh_file": "meshes/meshese_simple_street_canyon.npz",
+      "bs_height": 10.0,
+      "bs_xy": [
+        [-30.0, 9.0],
+        [30.0, -9.0]
+      ]
+    }
+  }
+}
